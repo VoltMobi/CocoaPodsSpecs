@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version      = "1.0"
   s.license      = { :type => 'MIT' }
   s.summary      = "Library provides a way to diff two arrays"
-  s.homepage     = "http://courier99.voltmobi.com/ios/vmbarraydiff"
+  s.homepage     = "https://github.com/VoltMobi/VMBArrayDiff"
   s.author       = { "VoltMobi" => "hello@voltmobi.com" }
 
   s.source       = { :git => "https://github.com/VoltMobi/VMBArrayDiff.git", :tag => "#{s.version}" }
